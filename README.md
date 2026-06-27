@@ -6,6 +6,7 @@
 - 🎨 Senior **UX/UI Designer** with a focus on Arabic-first, RTL-ready products
 - 📱 **Flutter Developer** building production apps with Clean Architecture & BLoC
 - 🚀 Currently working on **Twiscope** — a social media analytics platform
+- 📚 Built **Rafeeq** — a social reading platform for Arabic readers (Flutter mobile app + Django REST API)
 - 💼 Open to freelance UX audits, redesigns, and Flutter development projects
 - 🌱 Always exploring the intersection of design systems and scalable code
 
@@ -15,7 +16,7 @@
 
 **Design:** Figma · Adobe XD · Design Systems · User Research · Wireframing · Prototyping
 
-**Development:** Flutter · Dart · BLoC / Cubit · Clean Architecture · Dio · Firebase · GetIt · Riverpod
+**Development:** Flutter · Dart · BLoC / Cubit · Clean Architecture · Dio · Firebase · GetIt · Riverpod · Django · Django REST Framework
 
 ---
 
