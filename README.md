@@ -21,8 +21,8 @@
 
 I'm a **Senior Product Designer** with **5+ years** of experience designing SaaS, AI-powered and data-heavy products, and I also **build and ship production apps** with Flutter and Django. I care most about **Arabic-first, RTL-native design** and **design systems** that stay consistent across web and mobile.
 
-| | |
-|---|---|
+| Area | Details |
+|:--|:--|
 | 🏢 **Now** | Founding / lead designer of **Twiscope** at **ASAS IT** |
 | 🎨 **Craft** | Product design · UX research · Design systems · Data visualization |
 | 💻 **Build** | Flutter (Clean Architecture + BLoC) · Django REST · Firebase |
@@ -33,85 +33,35 @@ I'm a **Senior Product Designer** with **5+ years** of experience designing SaaS
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 📊 Twiscope
-**Social media analytics & intelligence SaaS**
+**Social media analytics & intelligence SaaS.** Monitors X, TikTok, Instagram and LinkedIn for the Saudi market. I own the design system end-to-end across **7+ modules** on web and mobile, including a **first-of-its-kind 3D data visualization** mode.
 
-Monitors X, TikTok, Instagram and LinkedIn for the Saudi market. I own the design system end-to-end across **7+ modules** on web and mobile, including a **first-of-its-kind 3D data visualization** mode.
-
-![UX/UI](https://img.shields.io/badge/UX%2FUI-6E40C9?style=flat-square)
-![3D Visualization](https://img.shields.io/badge/3D%20Visualization-FF6B35?style=flat-square)
-![Design System](https://img.shields.io/badge/Design%20System-0ACF83?style=flat-square)
-![RTL](https://img.shields.io/badge/Arabic%20RTL-FF9900?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
+![UX/UI](https://img.shields.io/badge/UX%2FUI-6E40C9?style=flat-square) ![3D Visualization](https://img.shields.io/badge/3D%20Visualization-FF6B35?style=flat-square) ![Design System](https://img.shields.io/badge/Design%20System-0ACF83?style=flat-square) ![Arabic RTL](https://img.shields.io/badge/Arabic%20RTL-FF9900?style=flat-square)
 
 ### 📚 Rafeeq (رفيق)
-**Social reading platform for Arabic readers**
+**Social reading platform for Arabic readers.** Designed and built independently: a **Flutter** mobile app with a **Django REST** API, real-time features, highlights and premium subscriptions.
 
-Designed and built independently: a **Flutter** mobile app with a **Django REST** API, real-time features, highlights and premium subscriptions.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![RTL First](https://img.shields.io/badge/RTL%20First-FF9900?style=flat-square)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🚌 Muri (موري)
-**Student transport app, Saudi Arabia**
-
-Student and driver mobile apps, a booking flow, and an admin dashboard with live **SOS** handling, all backed by a unified brand design system.
-
-![Mobile UX](https://img.shields.io/badge/Mobile%20UX-6E40C9?style=flat-square)
-![Admin Dashboard](https://img.shields.io/badge/Admin%20Dashboard-13B9FD?style=flat-square)
-![Design System](https://img.shields.io/badge/Design%20System-0ACF83?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![RTL First](https://img.shields.io/badge/RTL%20First-FF9900?style=flat-square)
 
 ### 💊 TAMMEN (طَمِّن)
-**Arabic-first medication management & adherence app**
+**Arabic-first medication management & adherence app.** A Figma design system plus a **Django** backend architecture for a mobile app that helps people stay on top of their medication.
 
-A Figma design system plus a **Django** backend architecture for a mobile app that helps people stay on top of their medication.
+![HealthTech](https://img.shields.io/badge/HealthTech-FF3366?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-![HealthTech](https://img.shields.io/badge/HealthTech-FF3366?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### 🚌 Muri (موري)
+**Student transport app, Saudi Arabia.** Student and driver mobile apps, a booking flow, and an admin dashboard with live **SOS** handling, all backed by a unified brand design system.
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+![Mobile UX](https://img.shields.io/badge/Mobile%20UX-6E40C9?style=flat-square) ![Admin Dashboard](https://img.shields.io/badge/Admin%20Dashboard-13B9FD?style=flat-square) ![Design System](https://img.shields.io/badge/Design%20System-0ACF83?style=flat-square)
 
 ### ⚖️ Khulasa / WATHIQ
-**Legal consultation app**
+**Legal consultation app.** A full UI redesign, later rebuilt independently as a side project.
 
-A full UI redesign, later rebuilt independently as a side project.
-
-![UI Redesign](https://img.shields.io/badge/UI%20Redesign-6E40C9?style=flat-square)
-![LegalTech](https://img.shields.io/badge/LegalTech-005A9C?style=flat-square)
-
-</td>
-    <td width="50%" valign="top">
+![UI Redesign](https://img.shields.io/badge/UI%20Redesign-6E40C9?style=flat-square) ![LegalTech](https://img.shields.io/badge/LegalTech-005A9C?style=flat-square)
 
 ### 🤖 Knowledgy AI
-**Generative-AI EdTech platform**
+**Generative-AI EdTech platform.** Turns text prompts into complete courses: audio, text and visuals.
 
-Turns text prompts into complete courses: audio, text and visuals.
-
-![UX/UI](https://img.shields.io/badge/UX%2FUI-6E40C9?style=flat-square)
-![AI Product](https://img.shields.io/badge/AI%20Product-13B9FD?style=flat-square)
-
-</td>
-  </tr>
-</table>
+![UX/UI](https://img.shields.io/badge/UX%2FUI-6E40C9?style=flat-square) ![AI Product](https://img.shields.io/badge/AI%20Product-13B9FD?style=flat-square)
 
 <details>
 <summary><b>🗂️ More work</b></summary>
@@ -172,7 +122,7 @@ Turns text prompts into complete courses: audio, text and visuals.
 ## 🏅 Certifications
 
 ![Google UX Design](https://img.shields.io/badge/Google%20UX%20Design-4285F4?style=flat-square&logo=google&logoColor=white)
-![Usability Testing](https://img.shields.io/badge/Usability%20Testing-E91E8C?style=flat-square&logo=ixdf&logoColor=white)
+![Usability Testing](https://img.shields.io/badge/Usability%20Testing-E91E8C?style=flat-square&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF6B35?style=flat-square)
 ![Journey Mapping](https://img.shields.io/badge/Journey%20Mapping-0ACF83?style=flat-square)
 ![HCI Foundations](https://img.shields.io/badge/HCI%20Foundations-6E40C9?style=flat-square)
