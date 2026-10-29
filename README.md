@@ -16,6 +16,7 @@
 - 📊 Pioneered a **"First-of-its-kind" 3D Data Visualization** mode
 - 📱 **Flutter Developer** — Clean Architecture & BLoC
 - 📚 Built **Rafeeq** — social reading platform for Arabic readers
+- 💊 Designed **Tammen** — Arabic-first medication adherence app
 - 💼 Specializing in **SaaS · AI-powered solutions · Data Visualization**
 - 🌱 Passionate about Design Systems that scale across Web & Mobile
 - 📍 Cairo, Egypt
@@ -67,10 +68,11 @@
       <img src="https://img.shields.io/badge/On--Demand-0ACF83?style=flat-square" />
     </td>
     <td align="center">
-      <h3>🏥 pHistory</h3>
-      <p>Healthcare app connecting patients with medical services — doctor booking, clinic geolocation & medical records management.</p>
+      <h3>💊 Tammen (طَمِّن)</h3>
+      <p>Arabic-first medication management & adherence app — full design system in Figma plus Django backend architecture.</p>
       <img src="https://img.shields.io/badge/HealthTech-FF3366?style=flat-square" />
-      <img src="https://img.shields.io/badge/Mobile%20UX-6E40C9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Design%20System-0ACF83?style=flat-square" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
     </td>
     <td align="center">
       <h3>⚽ Devotana</h3>
@@ -88,9 +90,9 @@
 #### Design & Strategy
 <p>
   <img src="https://img.shields.io/badge/Figma%20Advanced-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Design%20Systems-6E40C9?style=for-the-badge&logo=buffer&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Prototyping-FF6B35?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
@@ -100,7 +102,7 @@
 <p>
   <img src="https://img.shields.io/badge/User%20Research-FF9900?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Usability%20Testing-0ACF83?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Thinking-E91E8C?style=for-the-badge&logo=thinking&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Thinking-E91E8C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WCAG%20Accessibility-005A9C?style=for-the-badge&logo=w3c&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
@@ -122,7 +124,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Google%20UX%20Design-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Usability%20Testing-E91E8C?style=flat-square&logo=ixdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Usability%20Testing-E91E8C?style=flat-square" />
   <img src="https://img.shields.io/badge/Design%20Thinking-FF6B35?style=flat-square" />
   <img src="https://img.shields.io/badge/Journey%20Mapping-0ACF83?style=flat-square" />
   <img src="https://img.shields.io/badge/HCI%20Foundations-6E40C9?style=flat-square" />
@@ -139,10 +141,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dabash99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabash99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dabash99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -150,13 +149,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dabash99&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
 
 ### 📫 Reach Me
 
